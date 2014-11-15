@@ -1,2 +1,3 @@
-This the first note for git;
-git is very good;
+1=This the first note for git;
+2=git is very good;
+above is added
